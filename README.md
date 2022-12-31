@@ -24,6 +24,17 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 ![image](https://user-images.githubusercontent.com/116771507/210123862-d2a9a9a1-3ec7-47e7-98e1-9fef2184ba16.png)
 
+{█(100I_1+50I_2=30 @75I_1+90I_2=15)┤
+I_1=(30-50I_2)/100
+75((30-50I_2)/100)+90I_2=15
+22.5-37.5I_2+90I_2=15 
+52.5I_2=-7.5
+I_2=-143mA
+100I_1+50(-0.143)=30
+I_1=372mA
+
+
+
 3. Utilizando determinantes, resuelva el siguiente conjunto de ecuaciones para ambas corrientes:
 
 ![image](https://user-images.githubusercontent.com/116771507/210123870-bce48a65-eb34-413f-9880-cf52fa9c4b77.png)
