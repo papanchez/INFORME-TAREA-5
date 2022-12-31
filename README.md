@@ -52,6 +52,10 @@ SECCIÓN 9–2 Método de la corriente en ramas
 
 ![image](https://user-images.githubusercontent.com/116771507/210123906-9240ac88-eab8-4e99-9980-806fbe1c9bcd.png)
 
+La ley de Kirchhoff nos dice que la sumatoria de las corrientes en un nodo es igual a cero, siendo las corrientes que entran postivas y las que salen negativas, entonces la ecuación correspondiente en este caso para hallar la corriente total en el nodo A es:
+
+I1-I2-I3=0
+
 13. Determine la caída de voltaje entre los extremos de cada resistor mostrado en la figura 9-26 e indique la polaridad real.
 
 ![image](https://user-images.githubusercontent.com/116771507/210123914-64dd6644-5e51-4f80-b2e1-ca63ffa5fefc.png)
