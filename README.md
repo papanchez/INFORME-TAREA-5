@@ -41,6 +41,11 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora:
 
+![image](https://user-images.githubusercontent.com/116771507/210125728-a27dc882-e980-4350-991a-e90e1978a7f0.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210125733-b8059237-bd4d-4ab4-81e8-7c1603a130d4.png)
+
+
 SECCIÓN 9–2 Método de la corriente en ramas
 
 11. Escriba la ecuación de la corriente de Kirchhoff para la asignación de corriente mostrada en el nodo A en la figura 9-26.
