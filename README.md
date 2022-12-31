@@ -60,6 +60,8 @@ I1-I2-I3=0
 
 ![image](https://user-images.githubusercontent.com/116771507/210123914-64dd6644-5e51-4f80-b2e1-ca63ffa5fefc.png)
 
+
+
 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
 ![image](https://user-images.githubusercontent.com/116771507/210123920-c609cef5-14a1-4881-9dec-882d66e9d391.png)
