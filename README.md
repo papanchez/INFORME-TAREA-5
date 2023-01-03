@@ -258,9 +258,13 @@ IR8= IR3+IR5=179uA+1.46mA=1.64mA
 
 SECCIÓN 10–1 El campo magnético
 
-2. En cierto campo magnético, el área de sección transversal es de 0.5 m2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
+2. En cierto campo magnético, el área de sección transversal es de 0.5 m^2 y el flujo es de 1500 mWb. ¿Cuál es la densidad de flujo?
+
+B= 1500 uWb/ 0.5m^2=3000uT=3T
 
 4. En un lugar dado, suponga que el campo magnético terrestre es de 0.6 gauss. Exprese esta densidad de flujo en teslas. 
+
+0.6 G x (1T/10^4G)= 0.06T
 
 SECCIÓN 10–2 Electromagnetismo
 
@@ -268,33 +272,63 @@ SECCIÓN 10–2 Electromagnetismo
 
 ![image](https://user-images.githubusercontent.com/116771507/210296160-c9be026b-40ee-4f9f-8e47-c65377102ad5.png)
 
+La aguja de la brújula comienza a girar 180°
+
 8. Determine la reluctancia de un material con longitud de 0.28 m y área de sección transversal de 0.08 m2 si la permeabilidad absoluta es de 150*10^-7 wb/at*m
 
+R= 1/uA=0.28m/((150*10^-7wb/at*m)*0.08m^2)= 233*10^3 At/Wb
 
 SECCIÓN 10–3 Dispositivos electromagnéticos
 
 10. De manera característica, cuando se activa un solenoide, ¿se extiende o retrae el émbolo de imán?
 
+El émbolo de imán se retrae.
+
 12. Explique la secuencia de los eventos mostrados en el circuito de la figura 10-43 comenzando cuando el interruptor 1 (SW1) se cierra. 
 
 ![image](https://user-images.githubusercontent.com/116771507/210296265-7ac5f0cf-0587-4cb8-8910-b71c7cc8703d.png)
 
+El relé conceta +9V lo que hace que se encienda la lámpara 2 y se apague la lámpara 1.
 
 SECCIÓN 10–4 Histéresis magnética
 
 14. ¿Cuál es la fuerza magnetizante en el problema 9 si la longitud del núcleo es de 0.2 m?
 
+Fm= 1500 At
+
+H= Fm/I= 1500At/ 0.2m= 7500 At/m
+
 16. En la figura 10-44, hay 500 vueltas. Determine
 
 ![image](https://user-images.githubusercontent.com/116771507/210296336-cb659a99-e61c-44df-bb55-c9fd83bd7d18.png)
 
+a) 
+
+H= Fm/I=NI/I= (500 x 0.25A)/0.3m= 417At/m
+
+U= Ur x U0= 250 x 4π*10^-7=3142 x 10^-7 Wb/At * m
+
+b) 
+
+A= 0.02m x 0.02m=0.0004m^2
+
+φ=Fm/R= NI/(I/uA)= (500t*0.25A)/ (0.3m/((3142x10^-7) x 0.0004m^2))=52.3 uWb
+
+c)
+
+B=φ/A= 52.3 uWb/ 0.0004m^2= 130.75 uWb/m^2
 
 SECCIÓN 10–5 Inducción electromagnética
 
 18. De acuerdo con la ley de Faraday, ¿qué le sucede al voltaje inducido en una bobina dada si la razón de cambio del flujo magnético se duplica?
 
+El voltaje inducido se duplica en el momento en que la tasa de cambio del flujo magnético se duplique.
+
 20. Un campo magnético cambia a razón de 3500 x 10^-3 Wb/s. ¿Cuánto voltaje se induce en una bobina de 500 vueltas colocada en el campo magnético?
 
+Vind= N(dφ/dt)
+
+Vind= 500t x (3500 x 10^-3 Wb/s)= 1.75 kV
 
 SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
@@ -302,8 +336,11 @@ SECCIÓN 10–6 Aplicaciones de la inducción electromagnética
 
 ![image](https://user-images.githubusercontent.com/116771507/210296459-0580530d-4213-4d1e-82a2-d90f2e488806.png)
 
+No hay voltaje inducido debido a que no hay cambio en el campo magnético.
 
 24. Un generador de cd básico de una espira gira a 60 rev/s. ¿Cuántas veces cada segundo llega el voltaje de cd de salida a su pico (alcanza un máximo)?
+
+60 rev/s x 2 veces/rev= 120 veces/s
 
 VIDEO
 
