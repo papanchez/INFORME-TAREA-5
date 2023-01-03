@@ -129,11 +129,43 @@ I2= (VAB-40V)/68Ω= (28.3-40)V/68Ω= -172 mA
 
 I3= VAB/ 147Ω= 28.3V/147Ω=193 mA
 
+![image](https://user-images.githubusercontent.com/116771507/210293873-056c43e4-095a-46b1-8722-4e9f432846b0.png)
 
 
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 ![image](https://user-images.githubusercontent.com/116771507/210124003-4569c666-c1a7-4961-b773-ba5559f7bf0f.png)
+
+NODO A:
+
+I1-I2-I3=0
+
+((9-VA)/56)-VA/27-((VA-VB)/91=0
+
+9/56-VA/56-VA/27-VA/91+VB/91=0
+
+-0.0659VA+0.0109VB=-0.1607
+
+NODO B:
+
+I3-I4-I5=0
+
+((VA-VB)/91-((VB+4.5)/33+((VB+15)/82)=0
+
+VA/91-VB/91-VB/33-4.5/33-VB/82-15/82=0
+
+0.0109VA-0.0535VB=0.3193
+
+Tenemos el sistema de ecuaciones:
+
+![image](https://user-images.githubusercontent.com/116771507/210294445-3df3c2a4-e0c6-433e-938a-af089e2fd372.png)
+
+resolviendolo encontramos nuestras incógnitas:
+
+VA=1.502V
+
+VB=-5.56V
+
 
 31. Use el análisis de nodos, el de lazos, o cualquier otro procedimiento para determinar las corrientes y los voltajes en cada nodo desconocido en la figura 9-35.
 
