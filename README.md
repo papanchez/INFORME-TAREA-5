@@ -111,6 +111,26 @@ SECCIÓN 9–4 Método del voltaje en nodos
 
 ![image](https://user-images.githubusercontent.com/116771507/210123991-d59785f7-a40b-496a-a388-483133b4593f.png)
 
+Iin=Iout
+
+IT=0
+
+I1-I2-I3=0  
+
+((30-VA)/82)-((VA-40)/68)-VA/147=0
+
+30/82-VA/82-VA/68+40/60-VA/147=0
+
+VA=28.3V=VAB
+
+I1= (30V-VAB)/82Ω= (30-28.3)V/82Ω= 20.6 mA
+
+I2= (VAB-40V)/68Ω= (28.3-40)V/68Ω= -172 mA
+
+I3= VAB/ 147Ω= 28.3V/147Ω=193 mA
+
+
+
 29. Use el análisis de nodos para determinar el voltaje en los puntos A y B con respecto a tierra en la figura 9-33.
 
 ![image](https://user-images.githubusercontent.com/116771507/210124003-4569c666-c1a7-4961-b773-ba5559f7bf0f.png)
