@@ -100,11 +100,11 @@ Resolviendo el sistema de ecuaciones tenemos que:
 
 ![image](https://user-images.githubusercontent.com/116771507/210123936-881441fe-3bd1-4f86-9710-1857f386ea48.png)
 
-V1kΩ=I1kΩ*1kΩ= 5.11mA*1kΩ=5.11V
+V1kΩ=I1kΩ x 1kΩ= 5.11mA x 1kΩ=5.11V
 
-V560Ω=I560Ω*560Ω= 1.59mA*560Ω=890mV
+V560Ω=I560Ω x 560Ω= 1.59mA x 560Ω=890mV
 
-I820Ω=I820Ω*820Ω=3.52mA+820Ω=2.89V
+I820Ω=I820Ω x 820Ω=3.52mA x 820Ω=2.89V
 
 
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
@@ -136,9 +136,9 @@ I1=556 mA y I2=202 mA
 
 Ahora procederemos a encontrar el valor del voltaje de A y B:
 
-VA=(I1-I2 )*2.2Ω=(556-202)mA*2.2Ω=778.8 mV
+VA=(I1-I2 ) x 2.2Ω=(556-202)mA x 2.2Ω=778.8 mV
 
-VB=I2*3.9Ω=202mA*3.9Ω=787.8 mV
+VB=I2 x 3.9Ω=202mA x 3.9Ω=787.8 mV
 
 VAB=(776.6-787.8)mV=-11.2mV
 
