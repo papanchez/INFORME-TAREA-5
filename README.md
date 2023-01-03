@@ -86,6 +86,23 @@ I1-I2-I3=0
 
 ![image](https://user-images.githubusercontent.com/116771507/210123971-a973b1b0-30e0-4008-b3ac-d11532bc2269.png)
 
+Ec.1:
+
+0.68IA+3.3(IA-IB)+1.5(IA-IC)=0
+
+5.48IA-3.3IB-1.5IC=0        (1)
+
+Ec.2:
+
+3.3(IB-IA)+0.82(IB-IC)=15
+
+-3.3IA+4.12IB-0.82IC=0      (2)
+
+0.82(IC-IB)+1.5(IC-IA)+2.2IC=0
+
+-1.5IA-0.82IB+4.52IC=0      (3)
+
+
 SECCIÓN 9–4 Método del voltaje en nodos
 
 27. ¿Cuáles son los valores de corriente de rama en la figura 9-32? En cada rama, muestre la dirección real de la corriente. 
