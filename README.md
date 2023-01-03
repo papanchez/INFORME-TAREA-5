@@ -171,6 +171,31 @@ VB=-5.56V
 
 ![image](https://user-images.githubusercontent.com/116771507/210124017-bfe171f2-f763-45bb-921a-9e484e616921.png)
 
+IR7= 4.32V/2KΩ=2.16mA
+
+VC= 4.32V-20V=-15.7V
+
+IR6= ((-5.25+15.7)V/ 20KΩ= 522uA
+
+IR4= 5.25v/16kΩ= 328uA
+
+IR1= I6-I4= 522uA-328uA= 193uA
+
+VA= -5.25V+1.55v= -3.7V
+
+I2= 3.70V/10KΩ= 370uA
+
+IR5= IR7-IR4-IR2= 2.16mA-328uA-370uA= 1.46mA
+
+VB= -1.46mA*4kΩ= -5.85V
+
+IR3= (-3.70+5.85)V/12KΩ= 179uA
+
+IR8= IR3+IR5=179uA+1.46mA=1.64mA
+
+![image](https://user-images.githubusercontent.com/116771507/210295318-f46c93cb-f377-42a6-8123-af4e3cadbf4d.png)
+
+
 SECCIÓN 10–1 El campo magnético
 
 1. El área de sección transversal de un campo magnético se incrementa, pero el flujo no cambia. ¿La densidad de flujo aumenta o disminuye?
