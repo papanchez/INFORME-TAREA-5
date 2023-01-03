@@ -31,13 +31,28 @@ SECCIÓN 9–1 Ecuaciones simultáneas en el análisis de circuitos
 
 ![image](https://user-images.githubusercontent.com/116771507/210123870-bce48a65-eb34-413f-9880-cf52fa9c4b77.png)
 
+![image](https://user-images.githubusercontent.com/116771507/210295432-0df7a284-c7d0-4179-be92-a5a9b02fb288.png)
+
 5. Evalúe cada uno de los determinantes:
 
 ![image](https://user-images.githubusercontent.com/116771507/210123881-a6ab0a77-d951-4d0a-8e94-e9516a28cded.png)
 
+![image](https://user-images.githubusercontent.com/116771507/210295453-1f68730d-fd6a-4e01-b10d-a3f1c811a311.png)
+
+
 7. Resuelva para I1, I2, I3 en el siguiente conjunto de ecuaciones con determinantes:
 
 ![image](https://user-images.githubusercontent.com/116771507/210123894-b693d736-3a6a-4da1-ab66-fc82abaff870.png)
+
+Primero calculamos el determinante:
+
+![image](https://user-images.githubusercontent.com/116771507/210295490-2dc34ba0-e5a6-4d6a-9eee-2f60a12221a5.png)
+
+
+Luego procedemos a calcular el valor de cada corriente:
+
+![image](https://user-images.githubusercontent.com/116771507/210295528-a6acc72a-1825-48a3-9951-967c2fdaefcb.png)
+
 
 9. Resuelva las dos ecuaciones simultáneas del problema 1 con su calculadora:
 
@@ -60,27 +75,72 @@ I1-I2-I3=0
 
 ![image](https://user-images.githubusercontent.com/116771507/210123914-64dd6644-5e51-4f80-b2e1-ca63ffa5fefc.png)
 
+![image](https://user-images.githubusercontent.com/116771507/210295568-1a2c983a-1eba-40eb-abe9-cc30820d79d7.png)
+
+Resolviendo el sistema de ecuaciones tenemos que:
+
+![image](https://user-images.githubusercontent.com/116771507/210295594-264b884f-7518-4558-86e2-7ab8debe27a3.png)
 
 
 15. En la figura 9-27, determine el voltaje entre las terminales de la fuente de corriente (puntos A y B).
 
 ![image](https://user-images.githubusercontent.com/116771507/210123920-c609cef5-14a1-4881-9dec-882d66e9d391.png)
 
+![image](https://user-images.githubusercontent.com/116771507/210295614-ee0ec4ea-79fa-47ce-b130-9694fe8d4305.png)
+
+
 17. Con el método de la corriente en lazos, determine las corrientes en los lazos que aparecen en la figura 9-28
 
 ![image](https://user-images.githubusercontent.com/116771507/210123927-53593fee-0405-4f91-b154-265f3a6ef446.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210295636-6856e03a-7d8d-4471-a10f-307b483c3de0.png)
+
 
 19. Determine los voltajes y sus polaridades apropiadas en cada uno de los resistores mostrados en la figura 9-28.
 
 ![image](https://user-images.githubusercontent.com/116771507/210123936-881441fe-3bd1-4f86-9710-1857f386ea48.png)
 
+V1kΩ=I1kΩ*1kΩ= 5.11mA*1kΩ=5.11V
+
+V560Ω=I560Ω*560Ω= 1.59mA*560Ω=890mV
+
+I820Ω=I820Ω*820Ω=3.52mA+820Ω=2.89V
+
+
 21. Resuelva para las corrientes de lazo en la figura 9-29 con su calculadora. 
 
 ![image](https://user-images.githubusercontent.com/116771507/210123948-cf95b004-a645-4329-91b8-f37fc5200598.png)
 
+Planteando el sistema de ecuaciones tenemos que:
+
+![image](https://user-images.githubusercontent.com/116771507/210295703-2295562c-56e7-4ecf-9e4c-05f6c4203dc9.png)
+
+Resolviéndolo con ayuda de la calculadora: 
+
+![image](https://user-images.githubusercontent.com/116771507/210295728-9161e655-937a-4173-bbbd-c8b954b72d2d.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210295745-f1a14830-678b-41f1-855e-506f6915c11b.png)
+
+
 23. Determine el voltaje entre las terminales del puente abierto, A y B, en la figura 9-30. 
 
 ![image](https://user-images.githubusercontent.com/116771507/210123957-9fa40755-d9ff-4b2c-83dc-02a344c1d2a0.png)
+
+Planteado el sistema de ecuaciones tenemos:
+
+![image](https://user-images.githubusercontent.com/116771507/210295781-19bb6d24-5b5f-40d9-8ae5-3228ed9dd56c.png)
+
+Al resolverlo tenemos que:
+
+I1=556 mA y I2=202 mA
+
+Ahora procederemos a encontrar el valor del voltaje de A y B:
+
+VA=(I1-I2 )*2.2Ω=(556-202)mA*2.2Ω=778.8 mV
+
+VB=I2*3.9Ω=202mA*3.9Ω=787.8 mV
+
+VAB=(776.6-787.8)mV=-11.2mV
 
 25. Escriba las ecuaciones de lazo en la forma estándar para el circuito puente T mostrado en la figura 9-31.
 
