@@ -385,4 +385,4 @@ Por otro lado, se entendieron los conceptos e implementaciones del magnetismo y 
 
 BIBLIOGRAFÍA
 
-Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
+FLOYD, THOMAS L. Principios de circuitos eléctricos. Octava edición. PEARSON EDUCACIÓN, México, 2007.
