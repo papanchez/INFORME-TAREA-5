@@ -378,6 +378,8 @@ VIDEO
 
 CONCLUSIONES
 
+En conclusión mediante la realización de este informe se observaron y comprendieron los diferentes métodos existentes para la resolución de ejercicios de circuitos eléctricos y los sistemas de ecuaciones encontrados, por lo que se entendió que aunque es posible utilizar cualquier método para resolverlos, algunos pueden hacer que el problema se vuelva más sencillo, mientras que otros pueden dificultar la resolución del mismo, por ende lo primero que se debe hacer antes de implementar algún método es analizar y usar aquel que nos ayude más dependiendo de la situación.   
+
 BIBLIOGRAFÍA
 
 
