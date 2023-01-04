@@ -13,7 +13,39 @@ PÁNCHEZ GUAMUSHIG PABLO ANDRES
 
 1.OBJETIVOS
 
+OBJETIVOS GENERALES:
+
+-Analizar los diferentes métodos existentes para el análisis de circuitos eléctricos y los principios de un  campo magnético.
+
+-Utilizar las leyes y fórmulas aprendidas con anterioridad en clases para resolver problemas planteados. 
+
+
+OBJETIVOS ESPECÍFICOS:
+
+-Comprender y analizar los diferentes métodos de análisis de circuitos eléctricos como el análisis de lazo, análisis de nodos y corriente en ramas; además de los diferentes métodos de resolución existentes para las ecuaciones encontradas, con la meta de encontrar las incognitas establecidas en los diferentes ejercicios.
+
+-Entender el tipo de método que se debe aplicar en cada caso con el fin de resolver el ejercicio de forma eficaz.
+
+-Entender los conceptos e implementaciones del magnetismo y electromagetismo.
+
+
 2.MARCO CONCEPTUAL
+
+![image](https://user-images.githubusercontent.com/116771507/210469971-ec9daa67-f045-43aa-9b48-a5c85f6d9864.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210469985-af4e33a0-bfdb-450e-a4bb-978ee027bff4.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210469999-24b2bb05-f61e-4cd6-8789-be03a62a5b76.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210470030-cf32cdbb-b642-4e95-8b05-6299fa44d070.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210470046-c7a43162-923e-4946-b08e-fa270948c9ef.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210470055-e6f63013-2d52-4b24-807b-bce51720d208.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210470070-c2b0e86d-b80c-4984-8b72-0d34290db918.png)
+
+![image](https://user-images.githubusercontent.com/116771507/210470080-09f67a44-6d05-4ba8-a782-80eb608cb99a.png)
 
 
 3.RESOLUCIÓN DE EJERCICIOS
