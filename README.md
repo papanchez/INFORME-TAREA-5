@@ -376,49 +376,13 @@ No hay voltaje inducido debido a que no hay cambio en el campo magnético.
 
 VIDEO
 
+https://youtube.com/watch?v=FBlDg6CgvXo&si=EnSIkaIECMiOmarE
+
 CONCLUSIONES
 
-En conclusión mediante la realización de este informe se observaron y comprendieron los diferentes métodos existentes para la resolución de ejercicios de circuitos eléctricos y los sistemas de ecuaciones encontrados, por lo que se entendió que aunque es posible utilizar cualquier método para resolverlos, algunos pueden hacer que el problema se vuelva más sencillo, mientras que otros pueden dificultar la resolución del mismo, por ende lo primero que se debe hacer antes de implementar algún método es analizar y usar aquel que nos ayude más dependiendo de la situación.   
+En conclusión mediante la realización de este informe se vió la utilización de leyes y fórmulas eprendidas en capítulos anteriores, además de comprender los diferentes métodos existentes para la resolución de ejercicios de circuitos eléctricos y los sistemas de ecuaciones encontrados, por lo que se entendió que aunque es posible utilizar cualquier método para resolverlos, algunos pueden hacer que el problema se vuelva más sencillo, mientras que otros pueden dificultar la resolución del mismo, por ende lo primero que se debe hacer antes de implementar algún método es analizar y usar aquel que nos ayude más dependiendo de la situación.   
+Por otro lado, se entendieron los conceptos e implementaciones del magnetismo y electromagetismo, como por ejemplo que el flujo magnético se define como un grupo de líneas de fuerza que van del polo norte al polo sur en un imán; además de comprender los casos en los que se usan las diferentes fórmulas encontradas en el capitulo 10 y como es que estas se obtienen.
 
 BIBLIOGRAFÍA
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Floyd, T. (2007). Principios de circuitos eléctricos. Ciudad de México: Pearson Eduación.
